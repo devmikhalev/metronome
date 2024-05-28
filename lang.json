@@ -1,0 +1,36 @@
+{
+	"start" : {
+		"ru" : "Старт",
+		"en" : "Start"
+	},
+	
+	"stop" : {
+		"ru" : "Стоп",
+		"en" : "Stop"
+	},
+	
+	"random" : {
+		"ru" : "Случайный",
+		"en" : "Random"
+	},
+	
+	"bpm" : {
+		"ru" : "ударов в минуту",
+		"en" : "beats per minute"
+	},
+	
+	"select" : {
+		"ru" : "Выделять 1-ый бит",
+		"en" : "Single out first beat"
+	},
+	
+	"beats" : {
+		"ru" : "Биты:",
+		"en" : "Beats:"
+	},
+	
+	"load" : {
+		"ru" : "ЗАГРУЗКА...",
+		"en" : "LOADING..."
+	}
+}
